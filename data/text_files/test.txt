@@ -1,0 +1,1 @@
+this is test about whether the text load from langchain works 
